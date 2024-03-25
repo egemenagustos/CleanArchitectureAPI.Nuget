@@ -14,5 +14,7 @@
         {
             ExceptionMessage = exceptionMessage;
         }
+
+        public LogDetailWithException(){}
     }
 }
