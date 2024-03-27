@@ -10,6 +10,11 @@
             DeletedDate = deletedDate;
         }
 
+        public Entity(TId id)
+        {
+            Id = id;
+        }
+
         public Entity()
         {
         }
